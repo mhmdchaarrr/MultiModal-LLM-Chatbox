@@ -1,0 +1,13 @@
+Retrieval-Augmented Generation (RAG) is a technique that improves large language models
+by allowing them to retrieve relevant documents from an external knowledge base.
+
+RAG reduces hallucinations by grounding answers in retrieved context.
+It consists of two main stages: retrieval and generation.
+
+Vector databases store embeddings that represent semantic meaning of text.
+Cosine similarity is commonly used to compare embeddings.
+
+
+RAG stands for Retrieval-Augmented Generation.
+It works in two stages: retrieval (finding relevant chunks) and generation (LLM answers using the retrieved context).
+Vector databases store embeddings and enable similarity search using cosine similarity.

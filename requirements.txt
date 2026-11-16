@@ -1,0 +1,23 @@
+# RAG Project Dependencies
+
+# Core
+numpy>=1.26.0
+requests>=2.31.0
+
+# Embeddings (FREE, local)
+sentence-transformers>=2.7.0
+
+# Vector database
+chromadb>=0.4.24
+
+# Document loaders
+pymupdf>=1.24.0
+beautifulsoup4>=4.12.3
+
+# YouTube transcripts
+youtube-transcript-api>=1.0.0
+
+# UI
+streamlit>=1.31.0
+
+# LLM: Ollama (install separately: brew install ollama)
